@@ -56,7 +56,6 @@ const HTML = '<header>\n\
                     <a href="#">Link</a>\n\
                 </nav>\n\
             </header>';
-
 console.log(HTML);
 
 const H2 = `<header>
