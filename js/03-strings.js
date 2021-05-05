@@ -71,3 +71,7 @@ console.log(H2);
 
 const demo = 'asd ${imgSrc} asd';
 console.log(demo);
+
+const hi = 'Good morning!';
+const hiSize = hi.length;
+console.log(hi, hiSize);
