@@ -18,6 +18,9 @@ let reverse = '';
 // reverse = d[3] + ', ' + d[2] + ', ' + d[1] + ', ' + d[0];
 
 reverse = `${d[3]}, ${d[2]}, ${d[1]}, ${d[0]}`;
-
-
 console.log(reverse);
+
+const d2 = [...d];
+const jras = d2.reverse().join(', ');
+
+console.log(jras);
