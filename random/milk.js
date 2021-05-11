@@ -72,10 +72,9 @@ console.log(milk(2.5, 0.5, 9));
 console.log(milk(NaN, 0.5, 9));
 console.log(milk(10, NaN, 9));
 console.log(milk(10, 0.5, NaN));
-
-console.log(milk(10, 0.5, 9), '->', 1);
-console.log(milk(100, 0.5, 9), '->', 6);
-
 console.log(milk(Infinity, 0.5, 9));
 console.log(milk(100, Infinity, 9));
 console.log(milk(100, 0.5, Infinity));
+
+console.log(milk(10, 0.5, 9), '->', 1);
+console.log(milk(100, 0.5, 9), '->', 6);
