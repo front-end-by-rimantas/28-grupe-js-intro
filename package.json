@@ -1,0 +1,24 @@
+{
+  "name": "8-js-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/front-end-by-rimantas/28-grupe-js-intro.git"
+  },
+  "keywords": [],
+  "author": "Rimantas Belovas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/front-end-by-rimantas/28-grupe-js-intro/issues"
+  },
+  "homepage": "https://github.com/front-end-by-rimantas/28-grupe-js-intro#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
